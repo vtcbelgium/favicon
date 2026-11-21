@@ -1,0 +1,7 @@
+Name: Favicon & App Icon Bundle Generator
+URL: https://favicon.othrys.be/
+Description: Client-side favicon and app icon bundle generator converting images or emoji into 16x16, 32x32, Apple touch, and PWA icon packages in your browser.
+LLMs-Txt: https://favicon.othrys.be/llms.txt
+Sitemap: https://favicon.othrys.be/sitemap.xml
+Protocol: public-read-only
+Privacy: zero-tracking-cookies, local-browser-execution, zero-cloud-uploads
