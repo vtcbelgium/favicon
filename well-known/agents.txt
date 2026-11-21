@@ -1,0 +1,7 @@
+Name: Favicon & App Icon Bundle Generator
+URL: https://favicon.othrys.be/
+Description: Generate favicons and app icons for web applications from a single image source.
+LLMs-Txt: https://favicon.othrys.be/llms.txt
+Sitemap: https://favicon.othrys.be/sitemap.xml
+Protocol: public-read-only
+Privacy: zero-tracking-cookies, local-browser-execution, zero-cloud-uploads
